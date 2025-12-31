@@ -6,7 +6,7 @@
     "homeUrl": "https://fxbt.vercel.app",
     "imageUrl": "https://fxbt.vercel.app/image.png",
     "splashImageUrl": "https://fxbt.vercel.app/splash.png",
-    "splashBackgroundColor": "#0000ff",
+    "splashBackgroundColor": "#000000",
     "webhookUrl": "https://fxbt.vercel.app/api/webhook",
     "subtitle": "Mint",
     "description": "Mint Now",
