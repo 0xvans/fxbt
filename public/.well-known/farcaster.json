@@ -1,20 +1,20 @@
 {
   "frame": {
-    "name": "Based Apollo NFT",
+    "name": "FXBT",
     "version": "1",
-    "iconUrl": "https://based-apollo.vercel.app/icon.png",
-    "homeUrl": "https://based-apollo.vercel.app/",
-    "buttonTitle": "Mint Now",
-    "splashImageUrl": "https://based-apollo.vercel.app/splash.png",
-    "splashBackgroundColor": "#fef6e4",
-    "subtitle": "Free Mint",
-    "description": "BASED APOLLO NFT for Farcaster user.",
-    "primaryCategory": "art-creativity",
-    "webhookUrl": "https://api.neynar.com/f/app/3123f472-cc8d-4314-854a-708323ea99f6/event"
+    "iconUrl": "https://fxbt.vercel.app/icon.png",
+    "homeUrl": "https://fxbt.vercel.app",
+    "imageUrl": "https://fxbt.vercel.app/image.png",
+    "splashImageUrl": "https://fxbt.vercel.app/splash.png",
+    "splashBackgroundColor": "#0000ff",
+    "webhookUrl": "https://fxbt.vercel.app/api/webhook",
+    "subtitle": "Mint",
+    "description": "Mint Now",
+    "primaryCategory": "social"
   },
   "accountAssociation": {
-    "header": "eyJmaWQiOjI0ODY2NSwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDhGY0Y1OTI0MjgzM0UzNTNlMDE0ZTI5RjM2ZjhFMTI0ZjBkMzVBMjIifQ",
-    "payload": "eyJkb21haW4iOiJiYXNlZC1hcG9sbG8udmVyY2VsLmFwcCJ9",
-    "signature": "QCDnjc23+eA002gyeytg3RPYkVKWpSNZde92DpywaSk7j6LYXF+RY3ceg3lvoGZAmGc8lpwZuvbtTKF3d4wfRhw="
+    "header": "eyJmaWQiOjMwMTQ5MCwidHlwZSI6ImF1dGgiLCJrZXkiOiIweGNCQmYwMEE2RjVGNDQyMDg4QzNCMGI1YzQxNzQ3OTE2NTRENWNGNTQifQ",
+    "payload": "eyJkb21haW4iOiJmeGJ0LnZlcmNlbC5hcHAifQ",
+    "signature": "N0qAYfKkCy42LvfPXN90/5xu+TLrc/g/t0WZAX7Px985pbE2pP6M2CDu6qyuI9HqdIKmanF1OkOfdvsw+9AEohs="
   }
 }
