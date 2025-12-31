@@ -2,8 +2,8 @@ import './globals.css'
 import Script from 'next/script'
 
 export const metadata = { 
-  title: 'BASED APOLLO', 
-  description: 'Apollo Mint MiniApp' 
+  title: 'Farcaster XBT', 
+  description: 'FXBT Mint MiniApp' 
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
