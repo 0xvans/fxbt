@@ -165,7 +165,7 @@ function BasedApolloInner() {
   const { writeContractAsync } = useContractWrite()
   const { data: balanceData } = useBalance({ address, chainId: base.id })
 
-  const total = 82
+  const total = 1
 
   const CONTRACT_ABI = [
     {
@@ -239,7 +239,7 @@ function BasedApolloInner() {
           }
         } else {
           setStep('eligible')
-          setStatus('Eligible. Click "Generate" to create your Based Apollo.')
+          setStatus('Eligible. Click "Generate" to create your FXBT')
         }
       } catch {
         if (!canceled) {
