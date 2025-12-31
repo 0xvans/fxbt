@@ -419,7 +419,7 @@ function BasedApolloInner() {
   const handleShare = async () => {
     const text = encodeURIComponent('I just minted my Farcaster XBT NFT!  @takemoney.eth')
     const castUrl = `https://warpcast.com/~/compose?text=${text}&embeds[]=${encodeURIComponent(
-      'https://farcaster.xyz/miniapps/EvgnYVZ-21Tc/based-apollo-nft'
+      'https://farcaster.xyz/miniapps/odbQEGe4A_Be/fxbt'
     )}`
 
     try {
@@ -429,7 +429,7 @@ function BasedApolloInner() {
     }
   }
 
-  const openSeaLink = fid ? `https://opensea.io/assets/base/basedapollo` : 'https://opensea.io'
+  const openSeaLink = fid ? `https://opensea.io/assets/base/farcaster-xbt` : 'https://opensea.io'
 
   return (
     <div
